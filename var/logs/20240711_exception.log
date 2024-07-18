@@ -1,0 +1,7 @@
+*ERROR* 	v8.1.7	2024/07/11 - 10:34:32: No template found for index at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v8.1.7	2024/07/11 - 10:37:11: No template found for index at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v8.1.7	2024/07/11 - 11:06:59: No template found for index at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v8.1.7	2024/07/11 - 11:07:50: No template found for errors/404 at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v8.1.7	2024/07/11 - 11:11:15: No template found for errors/404 at line 68 in file classes/Smarty/TemplateFinder.php
+*ERROR* 	v8.1.7	2024/07/11 - 12:03:18: There is no image type defined for &quot;products&quot;. at line 384 in file src/Adapter/Image/ImageRetriever.php
+*ERROR* 	v8.1.7	2024/07/11 - 13:26:40: [ThemeRepository] Theme configuration file not found for theme at `C:\wamp64\www\prestashop2/config/themes/ebusiness/shop1.json`. at line 161 in file src/Core/Addon/Theme/ThemeRepository.php
